@@ -1,0 +1,20 @@
+html {
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+
+
+h1 {
+    color: white;
+    position: absolute;
+    top: 0px;
+    right:5px;
+}
+
+p {
+    color: white;
+    position: absolute;
+    top: 35px;
+    right: 100px;
+}
